@@ -1,0 +1,3 @@
+Voici mon fichier texte FICHIER_DNK1.txt, qui va accompagner le fichier README.txt
+
+C'est cool !
